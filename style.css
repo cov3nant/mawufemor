@@ -1,0 +1,9 @@
+    body{
+        color: #ffffff;
+        background-image: url(./pics/IMG_20181008_135605.jpg);
+        background-position: top 40%;
+        background-repeat: no-repeat;
+        background-size: auto ;
+        /* this how to set the background color */
+        /* background-color: hsl(315, 77%, 33%); */
+    }
